@@ -37,28 +37,29 @@ Since then, I've been fully committed to coding:
 
 ## 📂 Featured Projects
 
-### 🔹 [DURID Intranet](https://github.com/jkarras/push_swap)
+### 🔹 [DURID Intranet](https://github.com/JanKarras/push_swap)
 A full-stack internal intranet system for DURID GmbH, built alongside my part-time job.
 Includes tools for internal planning, calendar, resource management, and more.
 **Tech:** Express.js, PostgreSQL, Node.js
 
 ---
 
-### 🔹 [transcendence](https://github.com/jkarras/transcendence)
+### 🔹 [transcendence](https://github.com/JanKarras/transcendence)
 A multiplayer Pong-like game built with NestJS, featuring authentication, match history, friends, and chat.
 Developed as the final project at 42 Wolfsburg.
 **Tech:** NestJS, PostgreSQL, WebSocket, TypeORM, Docker
 
 ---
 
-### 🔹 [webserv](https://github.com/jkarras/webserv)
-A fully functional HTTP server built in C++98, supporting static file serving, CGI, and multipart form data.
-Inspired by NGINX and built from scratch for the 42 core curriculum.
-**Tech:** C++98, Sockets, CGI, file I/O, HTTP parsing
+### 🔹 [Join](https://github.com/JanKarras/Join)
+A collaborative task management tool inspired by Kanban systems.
+Users can create tasks with subtasks, assign them to team members, and track progress in a visual dashboard.
+Built as a solo project to explore clean UI design, modular JavaScript, and frontend state management without frameworks.
+**Tech:** HTML, CSS, JavaScript, localStorage
 
 ---
 
-### 🔹 [push_swap](https://github.com/jkarras/push_swap)
+### 🔹 [push_swap](https://github.com/JanKarras/push_swap)
 A 42 algorithm project written in C.
 The goal is to sort a stack of integers using a limited set of operations (`sa`, `pb`, `ra`, etc.), optimized for minimal moves.
 **Tech:** C, algorithms, sorting heuristics

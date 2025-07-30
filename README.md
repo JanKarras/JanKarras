@@ -59,7 +59,7 @@ Built as a solo project to explore clean UI design, modular JavaScript, and fron
 
 ---
 
-### 🔹 [push_swap](https://github.com/JanKarras/push_swap)
+### 🔹 [push_swap](https://github.com/JanKarras/PushSwap)
 A 42 algorithm project written in C.
 The goal is to sort a stack of integers using a limited set of operations (`sa`, `pb`, `ra`, etc.), optimized for minimal moves.
 **Tech:** C, algorithms, sorting heuristics

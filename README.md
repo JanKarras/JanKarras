@@ -37,19 +37,45 @@ Since then, I've been fully committed to coding:
 
 ## 📂 Featured Projects
 
-🔹 [push_swap](https://github.com/jkarras/push_swap) – Sorting algorithm using restricted operations (C)
-🔹 [webserv](https://github.com/jkarras/webserv) – HTTP server implementation in C++98 (Sockets, CGI)
-🔹 [transcendence](https://github.com/jkarras/transcendence) – Pong-based multiplayer app (NestJS, PostgreSQL, WebSocket)
-🔹 [durid-intranet](*private*) – Internal tool suite for company operations (Express + PostgreSQL + Docker)
+### 🔹 [DURID Intranet](https://github.com/jkarras/push_swap)
+A full-stack internal intranet system for DURID GmbH, built alongside my part-time job.
+Includes tools for internal planning, calendar, resource management, and more.
+**Tech:** Express.js, PostgreSQL, Node.js
 
 ---
+
+### 🔹 [transcendence](https://github.com/jkarras/transcendence)
+A multiplayer Pong-like game built with NestJS, featuring authentication, match history, friends, and chat.
+Developed as the final project at 42 Wolfsburg.
+**Tech:** NestJS, PostgreSQL, WebSocket, TypeORM, Docker
+
+---
+
+### 🔹 [webserv](https://github.com/jkarras/webserv)
+A fully functional HTTP server built in C++98, supporting static file serving, CGI, and multipart form data.
+Inspired by NGINX and built from scratch for the 42 core curriculum.
+**Tech:** C++98, Sockets, CGI, file I/O, HTTP parsing
+
+---
+
+### 🔹 [push_swap](https://github.com/jkarras/push_swap)
+A 42 algorithm project written in C.
+The goal is to sort a stack of integers using a limited set of operations (`sa`, `pb`, `ra`, etc.), optimized for minimal moves.
+**Tech:** C, algorithms, sorting heuristics
+
+---
+
+
+
+
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkarras&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanKarras&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkarras&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanKarras&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

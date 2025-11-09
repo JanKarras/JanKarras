@@ -51,7 +51,7 @@ Developed as the final project at 42 Wolfsburg.
 
 ---
 
-### 🔹 [Join](https://github.com/JanKarras/Join)
+### 🔹 [42Core](https://github.com/JanKarras/42CoreCurriculum)
 A collaborative task management tool inspired by Kanban systems.
 Users can create tasks with subtasks, assign them to team members, and track progress in a visual dashboard.
 Built as a solo project to explore clean UI design, modular JavaScript, and frontend state management without frameworks.

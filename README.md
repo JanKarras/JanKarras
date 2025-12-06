@@ -28,10 +28,11 @@ I started my professional journey with a hands-on career:
 💻 During that time, I also took a course to become a **state-certified C++ developer** — which sparked my passion for software
 
 Since then, I've been fully committed to coding:
-🚀 I'm currently a student at **42 Wolfsburg**
-🎯 I'm working on the final project **"Transcendence"**, a real-time multiplayer web app
+🚀 I completed the Common Core at 42 Wolfsburg  
+🏁 My final core project was "Transcendence", a real-time multiplayer web app
 
-🧑‍💼 Additionally, I work part-time at **DURID GmbH** as a **Full Stack Web Developer**, where I design and implement a complete internal intranet system using modern web technologies.
+🧑‍💼 I previously worked part-time at DURID GmbH as a Full Stack Web Developer,  
+where I designed and implemented a complete internal intranet system using modern web technologies.
 
 ---
 

@@ -52,18 +52,17 @@ Developed as the final project at 42 Wolfsburg.
 
 ---
 
-### 🔹 [42Core](https://github.com/JanKarras/42CoreCurriculum)
-A collaborative task management tool inspired by Kanban systems.
-Users can create tasks with subtasks, assign them to team members, and track progress in a visual dashboard.
-Built as a solo project to explore clean UI design, modular JavaScript, and frontend state management without frameworks.
-**Tech:** HTML, CSS, JavaScript, localStorage
+### 🔹 [42Core Curriculum (Completed)](https://github.com/JanKarras/42CoreCurriculum)
+All core projects from the 42 program, covering systems programming in C, algorithms, memory management, multi-threading, IPC, networking, and real-time applications.  
+Includes *minishell, philosophers, cub3d, push_swap,* and more.  
+**Tech:** C, Unix, Memory Management, Algorithms, Threads, Networking
 
 ---
 
-### 🔹 [push_swap](https://github.com/JanKarras/PushSwap)
-A 42 algorithm project written in C.
-The goal is to sort a stack of integers using a limited set of operations (`sa`, `pb`, `ra`, etc.), optimized for minimal moves.
-**Tech:** C, algorithms, sorting heuristics
+### 🔹 [DotNetLearningJourney](https://github.com/JanKarras/DotNetLearningJourney)
+A 7-day self-driven deep dive into C# and .NET, including OOP design, ETL processing, SQLite integration and reporting automation.  
+Built to expand skills beyond the 42 curriculum and prepare for real-world backend and data workflow development.  
+**Tech:** C#, .NET 8, SQLite, LINQ, ETL, Architecture
 
 ---
 

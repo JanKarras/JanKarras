@@ -66,21 +66,6 @@ Built to expand skills beyond the 42 curriculum and prepare for real-world backe
 
 ---
 
-
-
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanKarras&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanKarras&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 karras.jan@web.de
